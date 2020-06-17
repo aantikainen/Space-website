@@ -1,0 +1,115 @@
+body {
+	background-image: url(images/img1.jpg);
+	font-family: monospace;
+}
+
+.header {
+	color: whitesmoke;
+	padding: 30px;
+	text-align: center;
+}
+
+.topnav {
+	background-color: #335;
+	font-size: 13px;
+	opacity: 0.7;
+	overflow: hidden;
+}
+
+.topnav a {
+	color: #f2f2f2;
+	display: block;
+	float: left;
+	padding: 14px 50px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+td {
+	text-align: right;
+}
+
+th {
+	text-align: left;
+}
+
+.footer {
+	background: #335;
+	color: goldenrod;
+	margin-top: 220px;
+	opacity: 0.5;
+	padding: 20px;
+	text-align: center;
+}
+
+.footer2 {
+	background: #335;
+	color: goldenrod;
+	opacity: 0.5;
+	padding: 20px;
+	text-align: center;
+}
+
+.footer3 {
+	background: #335;
+	clear: both;
+	color: goldenrod;
+	margin-top: -200px;
+	opacity: 0.5;
+	padding: 20px;
+	position: relative;
+	text-align: center;
+}
+
+.small-image {
+	height: 50px;
+	width: 50px;
+}
+
+.column {
+	color: whitesmoke;
+	float: left;
+	padding: 25px;
+	width: 33.33%;
+}
+
+table {
+	color: white;
+	margin-left: auto;
+	padding: 15px;
+}
+
+a {
+	color: goldenrod;
+	text-decoration: none;
+}
+
+.visited {
+	color: black;
+}
+
+iframe {
+	border: 0.000000001px;
+}
+
+.fa {
+	border-radius: 50%;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+	width: 30px;
+}
+
+table {
+	width: 25%;
+}
+
+table, th, td {
+	border: 1px solid;
+	border-collapse: collapse;
+}
